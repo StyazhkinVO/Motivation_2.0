@@ -1,0 +1,17 @@
+.photo_flex{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto 30px;
+    
+}
+
+.img_list{
+    width: 490px;
+    height: 340px;
+    object-fit: cover;
+    border-radius: 50px;
+    box-decoration-break: clone;
+    border-color: #F15060;
+    border-style: solid;
+    padding: 0px;
+}
